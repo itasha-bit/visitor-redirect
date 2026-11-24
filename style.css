@@ -18,15 +18,15 @@ body {
 }
 
 p {
-  color: #aeb6c8;
+  color: #68f07a;
 }
 
 .loader {
   width: 35px;
   height: 35px;
   margin: 25px auto;
-  border: 3px solid #333b50;
-  border-top-color: #7c9cff;
+  border: 3px solid #331bbb;
+  border-top-color: #4fcaf0;
   border-radius: 50%;
   animation: spin 0.8s linear infinite;
 }
