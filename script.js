@@ -6,5 +6,5 @@ const DESTINATION_URL =
 window.addEventListener("DOMContentLoaded", () => {
   setTimeout(() => {
     window.location.replace(DESTINATION_URL);
-  }, 800);
+  }, 5000);
 });
